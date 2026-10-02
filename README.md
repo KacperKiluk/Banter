@@ -6,8 +6,8 @@ Publiczne wydania komunikatora Banter dla Windows i Arch Linux.
 
 | System | Plik do zainstalowania |
 | --- | --- |
-| Windows x64 | [Banter-Setup.exe](./Banter-Setup.exe) |
-| Arch Linux x86_64 | [Banter-ArchLinux-x86_64.pkg.tar.zst](./Banter-ArchLinux-x86_64.pkg.tar.zst) |
+| Windows x64 | [Banter-Setup.exe](./downloads/windows-x86_64/Banter-Setup.exe) |
+| Arch Linux x86_64 | [Banter-ArchLinux-x86_64.pkg.tar.zst](./downloads/archlinux-x86_64/Banter-ArchLinux-x86_64.pkg.tar.zst) |
 
 ### Windows
 
@@ -33,8 +33,8 @@ Jeśli masz wersję starszą niż 0.6.1, zainstaluj bieżące wydanie ręcznie j
 
 | System | File to install |
 | --- | --- |
-| Windows x64 | [Banter-Setup.exe](./Banter-Setup.exe) |
-| Arch Linux x86_64 | [Banter-ArchLinux-x86_64.pkg.tar.zst](./Banter-ArchLinux-x86_64.pkg.tar.zst) |
+| Windows x64 | [Banter-Setup.exe](./downloads/windows-x86_64/Banter-Setup.exe) |
+| Arch Linux x86_64 | [Banter-ArchLinux-x86_64.pkg.tar.zst](./downloads/archlinux-x86_64/Banter-ArchLinux-x86_64.pkg.tar.zst) |
 
 ### Windows
 
@@ -51,4 +51,3 @@ sudo pacman -U ./Banter-ArchLinux-x86_64.pkg.tar.zst
 The `.sig`, `.sha256`, and `latest.json` files support signature verification and automatic updates; they are not installers.
 
 Versions 0.6.1 and newer check for signed updates when the application starts. Older installations must be upgraded manually once.
-
