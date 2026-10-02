@@ -1,11 +1,15 @@
 {
-  "version": "0.6.0",
-  "notes": "Banter 0.6.0",
-  "pub_date": "2026-10-02T17:53:41Z",
+  "version": "0.6.1",
+  "notes": "Banter 0.6.1",
+  "pub_date": "2026-10-02T18:15:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQmhXbTZtN0RmaC9sU082QlFMYWVxTGxLOTU5allBU1VHT3g1T1lrWlV2WXB2RForN0h4SVdlSW5WSVlaM1RIY0ZXL2JjRE10TUEzMGJpb3RneWpROFRzS01zWlk5SVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTYzNjIxCWZpbGU6QmFudGVyXzAuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMAp3eS91bmNFcE5JTlZ6UXVUNkdvWW1VTG9BQm5KRUJvS2d5MDJvZVgrdjJyZWR0TVNOL2Nna0FCRWF4MnFKM2N4Y1ZvM1FDUFdOS2ZXNnFzdGZ3RURCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQmhXbTZtN0RmaDhXeHVvb3hVV21TUFBEejNTbHhvTUZENHcyS3licUdYUVJ1Si94ZndDeGxvZ0VwazVCWWxRWVo5N3IxTHZrTzVJcHZFa2JjMzcycUVrdHZyaTZVVVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTY0OTIxCWZpbGU6QmFudGVyXzAuNi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMQprUG9mMzhneGJXd1N1NnVMblJ3MFNnN0xEckg4c2lNRHMzVTdnR3JkckxMR2YyY0ZjSU5NY1YvdUs5eEIvaTllblcyVHZKbzR3eFptUXBad3lHK0lEUT09Cg==",
       "url": "https://raw.githubusercontent.com/kacperkiluk/banter/main/Banter-Setup.exe"
+    },
+    "archlinux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQmhXbTZtN0RmaHplRGh2VGtQY3RTR2tKM0FSZ3pzMHR2Z0RvY2JiM1lTMUJvZzAzSHVYcUQrRGxPd0VTVVEyVnB4VlNJU3hGdlJVaXJBcTM3aXFQUHR2dXRxQmtVK3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTY1ODIxCWZpbGU6QmFudGVyLUFyY2hMaW51eC14ODZfNjQucGtnLnRhci56c3QJdmVyc2lvbjowLjYuMQpoYTdKNVVtRDBRVTNERlcwSnJPdHlMeE12TEI5NE9hOW51eGplMnVjOG9UUWR3WkhTcDBBVE9EUWRSL2lkLzdOb0VHMVRINWUwanZiY3pCVEliMzFEZz09Cg==",
+      "url": "https://raw.githubusercontent.com/kacperkiluk/banter/main/Banter-ArchLinux-x86_64.pkg.tar.zst"
     }
   }
 }
